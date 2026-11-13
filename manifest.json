@@ -1,0 +1,14 @@
+{
+  "id": "community.claude-code-subscription",
+  "name": "Claude Code (subscription)",
+  "apiVersion": 1,
+  "description": "Run a Buzz agent on the Claude Code CLI installed on this computer, signed in with your own Claude subscription. No API key.",
+  "discovery": {
+    "category": "agents",
+    "tags": ["code", "coding-agents"]
+  },
+  "host": {
+    "processes": [{ "id": "claude", "program": "claude" }],
+    "files": true
+  }
+}
