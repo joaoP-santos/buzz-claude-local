@@ -13,7 +13,7 @@ subscription — no Anthropic API key.
 ## Install
 
 **From a link** (once this repo is on GitHub): open
-`buzz://plugin-install?repository=OWNER%2FREPO&ref=main` — Buzz shows the
+`buzz://plugin-install?repository=joaoP-santos%2Fbuzz-claude-local&ref=main` — Buzz shows the
 access it asks for; choose **Install plugin**. Updates arrive in place.
 
 **From a folder:** clone this repo, then in Buzz open **Settings → Plugins →
